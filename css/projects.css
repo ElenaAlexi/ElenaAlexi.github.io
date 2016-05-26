@@ -1,0 +1,28 @@
+.jumbotron {
+    text-align:center;
+    font-family:Ubuntu,sans-serif;
+    background-image:url("../img/photo-1458682625221-3a45f8a844c7.jpg");
+    height:100%;
+    
+}
+
+.jumbotron h1 span{
+    padding:10px 20px;
+    background-color:rgba(247,239,255,0.5);
+    border:1px solid transparent;
+    border-radius:10px;
+    box-shadow:5px 5px white;
+    color:white;
+}
+
+.jumbotron h1{
+    margin-bottom:60px;
+}
+
+.jumbotron .row{
+    margin-bottom:40px;
+}
+
+.footer{
+    margin-top:-40px;
+}

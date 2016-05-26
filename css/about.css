@@ -1,0 +1,18 @@
+.about .jumbotron{
+    background-image:url(../img/photo-1439192762818-e56f8ea12296.jpg);
+    color:white;
+}
+.about .jumbotron h1{
+    text-align:center;
+    font-family:Ubuntu, sans-serif;
+}
+
+.about .jumbotron p{
+    width:70%;
+    margin:0 auto;
+    margin-top:50px;
+    padding:30px;
+    background-color:rgba(235,179,255,0.75);
+    border:1px solid transparent;
+    border-radius:10px;
+}
