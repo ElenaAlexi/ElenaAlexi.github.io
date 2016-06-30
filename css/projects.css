@@ -18,11 +18,35 @@
 .jumbotron h1{
     margin-bottom:60px;
 }
-
+.jumbotron h2{
+    margin-bottom:20px;
+}
+.jumbotron h3{
+    color:rgb(33,4,37);
+    width:80%;
+    margin:0 auto;
+    margin-top:15px;
+}
 .jumbotron .row{
     margin-bottom:40px;
 }
 
+.description{
+    width:50%;
+    margin:0 auto;
+    padding:10px 20px;
+    background-color:rgba(247,239,255,0.5);
+    border:1px solid transparent;
+    border-radius:10px;
+    color:rgb(33,4,37);
+    font-family:Poppins,sans-serif;
+}
+.description a{
+    color:rgb(33,4,37);
+}
+.description a:hover{
+    color:rgb(33,4,37);
+}
 .footer{
     margin-top:-40px;
 }

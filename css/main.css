@@ -41,10 +41,14 @@
 
 .jumbotron h2{
     margin:90px 80px 0 80px;
-    color:white;    
+    color:white;
     text-align:center;
     line-height:180%;
-    font-family:Ubuntu, sans-serif;
+    background-color:rgba(59,60,85,0.4);
+    border:1px solid transparent;
+    border-radius:10px;
+    font-family:Poppins,sans-serif;
+    font-size: 25px;
 }
 
 .supporting{
@@ -58,8 +62,19 @@
     margin:80px 50px;
     font-size:30px;
 }
+.supporting h4{
+    font-size:20px;
+    margin-bottom:25px;
+}
 .supporting .row{
     margin-bottom:40px;
+}
+.supporting a{
+    color:black;
+}
+.supporting a:hover{
+    text-decoration:none;
+    color:black;
 }
 
 /*.supporting img:hover{
